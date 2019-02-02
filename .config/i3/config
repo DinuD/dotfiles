@@ -194,3 +194,6 @@ exec --no-startup-id nitrogen --restore
 
 # bind to launch chrome
 bindsym $mod+c exec google-chrome-stable
+
+# screenshot bind
+bindsym F12 exec scrot -q 100 -m -e 'mv $f ~/Screenshots' & notify-send "Screenshot saved"
