@@ -103,4 +103,4 @@ alias handbrake='ghb'
 alias clion="clion.sh"
 
 export TERM=xterm-256color
-export PATH=$HOME/Downloads/clion-2018.3.4/bin:$PATH
+export PATH=$HOME/Downloads/clion-2017.1.3/bin:$PATH
