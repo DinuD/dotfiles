@@ -104,3 +104,4 @@ alias clion="clion.sh"
 
 export TERM=xterm-256color
 export PATH=$HOME/Downloads/clion-2017.1.3/bin:$PATH
+export EDITOR="vim"
