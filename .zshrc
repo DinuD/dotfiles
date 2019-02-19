@@ -99,5 +99,8 @@ source $ZSH/oh-my-zsh.sh
 #alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias chrome='google-chrome-stable'
 alias i3conf='vim ~/.config/i3/config'
+alias handbrake='ghb'
+alias clion="clion.sh"
 
 export TERM=xterm-256color
+export PATH=$HOME/Downloads/clion-2018.3.4/bin:$PATH
