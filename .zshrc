@@ -100,7 +100,6 @@ source $ZSH/oh-my-zsh.sh
 alias chrome='google-chrome-stable'
 alias i3conf='vim ~/.config/i3/config'
 alias handbrake='ghb'
-alias clion="clion.sh"
 
 export TERM=xterm-256color
 export PATH=$HOME/Downloads/clion-2017.1.3/bin:$PATH
